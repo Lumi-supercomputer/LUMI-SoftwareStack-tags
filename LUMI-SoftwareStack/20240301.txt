@@ -1,0 +1,9 @@
+tag 20240301: Corrections to contributed software
+
+Changes
+-   VASP 6.4.2 for cpeGNU/23.09.
+-   Fixes for the binding issues in the rocm containers
+-   New documentation feature: We can now add some documentation to individual EasyConfigs
+    to make it more clear which EasyConfig offers what features. See, e.g., PyTorch
+
+Procedure: See the LUST Wiki
