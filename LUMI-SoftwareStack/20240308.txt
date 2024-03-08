@@ -1,0 +1,12 @@
+tag 20230308: Enhancements to the central stack and updates of contributed packages
+
+-   rocm/5.4.6 for CrayEnv and LUMI/23.09 as there are too many problems with rocm/5.6.1.
+-   EasyBuild-tools loaded by the EasyBuild module in 23.09, to add additional tools that
+    EasyBuild expects to find but are missing in the system image.
+-   JAX container modules.
+-   Improved documentation for the PyTorch containers.
+-   Initial steps to offer containers that support a Python virtual environment for 
+    adding packages out-of-the-box.
+-   Updates to Quantum ESPRESSO, NAMD and PETSc, the latter two now also with GPU support.
+
+Procedure: See the LUST Wiki
