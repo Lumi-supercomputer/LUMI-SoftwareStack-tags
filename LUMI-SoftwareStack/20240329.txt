@@ -1,0 +1,7 @@
+tag 20230329: Updates for containers
+
+-   PyTorch container with built-in virtual environment support
+-   Improved documentation for the PyTorch and rocm containers
+-   proot in systools/23.09
+
+Procedure: See the LUST Wiki

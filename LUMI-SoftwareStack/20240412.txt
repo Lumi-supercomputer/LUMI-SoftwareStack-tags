@@ -1,0 +1,6 @@
+tag 20240412: Minor update with two new contributed EasyConfigs
+
+-   singularity-bindings to be used when 23.09 is the default version of the CPE
+-   lumi-training-materials for the Amsterdam course in May 2024
+
+Procedure: See the LUST Wiki

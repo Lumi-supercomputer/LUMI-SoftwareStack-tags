@@ -1,0 +1,7 @@
+tag 20230322: Updates of contributed packages
+
+-   CP2K 2024.1 with GPU support for LUMI/23.09
+-   Improvement to a PETSc EasyConfig
+-   ROCm container for 5.6.0
+
+Procedure: See the LUST Wiki
