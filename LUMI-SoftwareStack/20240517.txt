@@ -1,0 +1,7 @@
+tag 20240517: Updates and new packages in the contributed easyconfigs repository.
+
+-   OpenFOAM v10
+-   Improvements to the GROMACS 2024.1 GPU version EasyConfig
+-   Score-P 8.4 and Scalasca 2.6.1 and dependencies
+
+Procedure: See the LUST Wiki
