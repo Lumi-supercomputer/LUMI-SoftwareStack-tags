@@ -1,0 +1,9 @@
+tag 20240524: New lumi-tools, Score-P for GPU and new PyTorch containers.
+
+-   Security update to the Python packages for documentation
+-   Bugfixes and lumi-ldap-projectlist command in lumi-tools
+-   Score-P for cpeCray and cpeAMD on LUMI-G
+-   Additional containers for PyTorch
+
+
+Procedure: See the LUST Wiki
