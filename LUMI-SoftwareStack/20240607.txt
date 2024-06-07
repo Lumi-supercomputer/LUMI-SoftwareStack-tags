@@ -1,0 +1,9 @@
+tag 20240607: Warnings for end-of-life stacks and minor fixes.
+
+-   Corrections to the fortune texts
+-   Security fixes to the processing of the LUMI Software Library
+-   Warnings about the upcoming removal when using LUMI/22.08 and 22.12.
+-   Improvement to the EASUBUILD_USER module making it easier to use it from inside a container to install software outside the container.
+
+
+Procedure: See the LUST Wiki
