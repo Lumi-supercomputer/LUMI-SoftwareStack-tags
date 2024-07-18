@@ -1,0 +1,7 @@
+tag 20240718: cotainr, lumi-container-wrapper, GPAW
+
+-   cotainr with new images in CrayEnv and LUMI/23.09
+-   lumi-container-wrapper in LUMI/23.09
+-   GPAW in LUMI-EasyBuild-contrib
+
+Procedure: See the LUST Wiki
