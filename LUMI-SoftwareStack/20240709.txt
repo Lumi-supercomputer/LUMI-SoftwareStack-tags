@@ -1,0 +1,8 @@
+tag 20240607: Updated EasyConfigs and change of default version of LUMI.
+
+-   Updated container EasyConfigs for PyTorch and Tensorflow
+-   Updated version of Siesta
+-   Message about 21.12 and 22.06 being removed from the system.
+-   Change default for LUMI to LUMI/23.09.
+
+Procedure: See the LUST Wiki
