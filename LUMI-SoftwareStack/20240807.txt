@@ -1,0 +1,8 @@
+tag 20240807: Bugfix for buildtools-python, new contributed easyconfigs
+
+-   Fix for buildtools-python in 23.09 with cray-python
+-   CPU-version of Yambo in 23.09
+-   QuEST for 23.09
+-   Adapted the MotD to warn for the system maintenance
+
+Procedure: See the LUST Wiki
