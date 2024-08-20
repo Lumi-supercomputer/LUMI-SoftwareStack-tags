@@ -1,0 +1,6 @@
+tag 20240909: First fixes after the system maintenance of August-September 2024
+
+-   Some improvements to the EasyBuild-user configuration.
+-   Fixes for modules that are no longer available.
+
+Procedure: See the LUST Wiki
