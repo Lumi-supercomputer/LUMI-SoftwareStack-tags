@@ -1,0 +1,9 @@
+tag 20240916: First pusblic post-system maintenance of August-September 2024
+
+-   Some improvements to the EasyBuild-user configuration.
+-   Fixes for modules that are no longer available.
+-   New 24.03 and 23.12-based software stacks.
+-   Updated EasyConfigs for 23.09 to work with ROCm 6, also contributed ones.
+-   First set of EasyBuild build recipes for user-installable software for 24.03.
+
+Procedure: See the LUST Wiki
