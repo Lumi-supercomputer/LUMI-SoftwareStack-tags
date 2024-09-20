@@ -1,0 +1,7 @@
+tag 20240920: Some additional packages
+
+-   Updated lumi-container-wrapper with openSUSE Leap 15.5 container in CrayEnv,
+    LUMI/23.12 and LUMI/24.03.
+-   New contributed EasyConfigs for R and score-P.
+
+Procedure: See the LUST Wiki
