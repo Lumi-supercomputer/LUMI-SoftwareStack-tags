@@ -1,0 +1,6 @@
+tag 20240927: Local software stacks enabled
+
+-   Enable local software stacks via modules
+-   Avoid indexing all stacks for module spider
+
+Procedure: See the LUST Wiki
