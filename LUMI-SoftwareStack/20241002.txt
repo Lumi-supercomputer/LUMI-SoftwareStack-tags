@@ -1,0 +1,6 @@
+tag 20241002: Extra contributed easyconfigs
+
+-   GROMACS with PLUMED for 24.03, some more Score-P configurations
+-   Deprecation warning for spack modules.
+
+Procedure: See the LUST Wiki
