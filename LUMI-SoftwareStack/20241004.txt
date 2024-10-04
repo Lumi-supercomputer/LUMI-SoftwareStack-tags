@@ -1,0 +1,8 @@
+tag 202410XX: Extra contributed easyconfigs
+
+-   ROCm 6.2.2
+-   Update of cotainr in CrayEnv
+-   New package in EasyBuild-contrib: STAR (RNA aligner)
+-   Bug fixes for visibility problems in the LUMI stack.
+
+Procedure: See the LUST Wiki
