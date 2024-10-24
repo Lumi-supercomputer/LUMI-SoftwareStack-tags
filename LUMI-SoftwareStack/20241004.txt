@@ -1,4 +1,4 @@
-tag 202410XX: Extra contributed easyconfigs
+tag 20241004: Extra contributed easyconfigs
 
 -   ROCm 6.2.2
 -   Update of cotainr in CrayEnv

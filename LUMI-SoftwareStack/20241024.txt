@@ -1,0 +1,11 @@
+tag 20241024: Various fixes and extensions in the central stack and contributed recipes
+
+-   Fix for htop on LUMI/24.03.
+-   cotainr in LUMI/24.03
+-   hpcat experimental tool to study bindings (Cray compiler only)
+-   Updated singularity-bindings
+-   ELPA for cpeCray and ROCm 6 (some performance degradation observed)
+-   Fixes for double linking of LibSci in some PETSc EasyConfigs
+-   GROMACS+PLUMED for CPU with full Python support for Cray Python.
+
+Procedure: See the LUST Wiki
