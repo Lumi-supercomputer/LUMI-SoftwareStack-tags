@@ -1,0 +1,8 @@
+tag 20241112: Various updates in the central stack and contributed recipes
+
+-   cotainr 2024.10.0 in the central stack
+-   Correction to CP2K with PLUMED
+-   Update to GPAW
+-   Amber with AmberTools and support for Cray Python
+
+Procedure: See the LUST Wiki
