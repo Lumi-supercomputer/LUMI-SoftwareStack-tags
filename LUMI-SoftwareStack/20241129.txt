@@ -1,0 +1,8 @@
+tag 20241112: Various updates in the central stack and contributed recipes
+
+-   cotainr 2024.10.0 removed again as it is too buggy.
+-   Upgrade lumio-conf to the new GO version
+-   New easyconfigs for Neko and VASP
+-   Bugfix for CP2K with GPU support.
+
+Procedure: See the LUST Wiki
