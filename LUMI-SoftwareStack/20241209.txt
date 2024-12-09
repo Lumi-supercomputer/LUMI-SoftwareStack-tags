@@ -1,0 +1,6 @@
+tag 20241209: Course materials, and finish removing buggy cotainr version
+
+-   cotainr 2024.10.0 completely removed.
+-   eb-tutorial for the December 2024 LUMI tutorial.
+
+Procedure: See the LUST Wiki
