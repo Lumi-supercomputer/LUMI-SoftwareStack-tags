@@ -1,0 +1,8 @@
+tag 20250115: New container modules, hpcat, and some minor updates
+
+-   Updated lumi-CPEtools with a new tool: HPC Affinity Tracker (hpcat)
+-   Modules for the new AI containers added after the summer 2024 system update
+-   New version of AdaptiveCpp
+-   Corrections to the EasyConfigs of CP2K and LAMMPS
+
+Procedure: See the LUST Wiki
