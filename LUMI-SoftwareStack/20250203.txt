@@ -1,0 +1,7 @@
+tag 20250203: Minor updates to the contributed EasyConfigs
+
+-   feh image viewer and dependencies
+-   singularity-AI-bindings module for the AI containers made by AMD for LUMI.
+-   Document why STOPCAR LABORT does not work on LUMI and should not be activated.
+
+Procedure: See the LUST Wiki
