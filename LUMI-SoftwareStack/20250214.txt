@@ -1,0 +1,6 @@
+tag 20250203: Minor updates to the contributed EasyConfigs
+
+-   VASP 6.5
+-   Elk 10.2.12 (external contribution from Johan Hellsvik)
+
+Procedure: See the LUST Wiki
