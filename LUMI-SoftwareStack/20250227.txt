@@ -3,6 +3,8 @@ tag 20250227: Minor updates to the contributed EasyConfigs
 -   PLUMED 2.9.2 updated to 2.9.3, and the same with packages that
     depend on it.
 -   Bugfix in one of the PETSc recipes.
+-   Development version of Wannier90 to work around a problem with GCC 12/13.
+-   Correction to the ROCm container documentation.
 -   Independent from these repositories, but Spack modules are no longer
     indexed by module spider unless explicitly requested or the module is
     loaded while the cache is being build.
