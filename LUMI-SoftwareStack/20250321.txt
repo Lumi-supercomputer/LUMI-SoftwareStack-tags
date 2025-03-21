@@ -1,0 +1,8 @@
+tag 20250321: PRoot for partition/container and extra contributed EasyConfigs
+
+-   PRoot to be installed in partition/container for easier building of 
+    containers with EasyBuild.
+-   Kokkos and Kokkos-kernerls
+-   PETSc using Kokkos and Kokkos-kernels as external libraries.
+
+Procedure: See the LUST Wiki
