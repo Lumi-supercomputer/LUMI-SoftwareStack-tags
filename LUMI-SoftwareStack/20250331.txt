@@ -1,0 +1,6 @@
+tag 20250331: Extra contributed EasyConfigs
+
+-   GROMACS 2025.1 for CPU and GPU
+-   STRUMPACK 7.0.1 for 24.03
+
+Procedure: See the LUST Wiki
