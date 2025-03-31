@@ -2,5 +2,6 @@ tag 20250331: Extra contributed EasyConfigs
 
 -   GROMACS 2025.1 for CPU and GPU
 -   STRUMPACK 7.0.1 for 24.03
+-   Removed checksums from libxc due to issues with them changing over time.
 
 Procedure: See the LUST Wiki
