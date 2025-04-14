@@ -1,0 +1,7 @@
+tag 20250331: Extra contributed EasyConfigs and an addition to the central stack
+
+-   New JAX and PyTorch containers; PyTorch with new wrapper scripts
+-   ESMF with MPI and PIO support
+-   OpenFOAM 12; fpocket
+
+Procedure: See the LUST Wiki
