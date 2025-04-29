@@ -1,0 +1,7 @@
+tag 20250429: Update of Vampir, bzip2 in systools, and additional contrib EasyConfigs
+
+-   Vampir 10.6.1
+-   systools/24.03-1 with pbzip2
+-   GROMACS with CP2K QM/MM support.
+
+Procedure: See the LUST Wiki
