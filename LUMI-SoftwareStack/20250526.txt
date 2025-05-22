@@ -1,0 +1,7 @@
+tag 20250526: CCPE containers
+
+-   Containers with CPE 24.11 and 25.03
+-   A note on GPU versions of QuantumESPRESSO
+-   Bugfixes in module visibility
+
+Procedure: See the LUST Wiki
