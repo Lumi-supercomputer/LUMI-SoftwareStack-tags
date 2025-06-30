@@ -1,0 +1,7 @@
+tag 20250630: Additional contributed easyconfigs and hpcat update
+
+-   Update of hpcat in lumi-CPEtools
+-   New contributed package: SEACAS Exodus
+-   Updated dependencies for GPAW and updated CPU version of GPAW
+
+Procedure: See the LUST Wiki
