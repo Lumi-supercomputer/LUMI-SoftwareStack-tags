@@ -1,0 +1,7 @@
+tag 20250724: Additional contributed easyconfigs and lumi-container-wrapper update
+
+-   Update of lumi-container-wrapper
+-   Update to the ccpe containers for 25.03
+-   New packages: Score-P 9.2 and Celerity
+
+Procedure: See the LUST Wiki
