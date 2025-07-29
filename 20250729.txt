@@ -1,0 +1,8 @@
+tag 20250729: lumi-container-wrapper docs and various container updates
+
+-   Update of lumi-container-wrapper docs mentioning Anaconda restrictions
+-   Improved ccpe containers with additional ROCm packages
+-   Updates to the PyTorch and JAX containers, including uniform support for
+    virtual environments and CSC-like scripts in all 2025 containers.
+
+Procedure: See the LUST Wiki
