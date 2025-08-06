@@ -1,0 +1,6 @@
+tag 20250806: ccpe container update and VASP
+
+-   VASP 6.5.1 contributed by a user
+-   ccpe update: Better procedure to run job steps.
+
+Procedure: See the LUST Wiki
