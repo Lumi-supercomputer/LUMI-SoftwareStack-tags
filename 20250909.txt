@@ -1,0 +1,7 @@
+tag 20250909: Change MotD and some small updates
+
+-   MotD updated after cancelled system update
+-   OpenFOAM 13
+-   ccpe update: Lustre support in MPI I/O
+
+Procedure: See the LUST Wiki
