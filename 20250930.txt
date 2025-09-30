@@ -1,0 +1,7 @@
+tag 20250930: Updates to contributed EasyConfigs
+-   OpenFOAM 2506 and improvements to the 12 and 13 build recipes
+-   Open MPI 5 with ROCm support
+-   Charm++ bugfix
+-   Improvements to the GROMACS documentation.
+
+Procedure: See the LUST Wiki

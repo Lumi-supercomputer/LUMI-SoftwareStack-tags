@@ -2,6 +2,6 @@ tag 20250916: Package updates and update LUST documentation
 -   Small improvement of the Open MPI documentation
 -   PyTorch 2.7.1 experimental container
 -   New NAMD (for GPU) and ELPA recipes
--   For LUST: Improvements to the documentation of LUMI-SoftwareStack, and new script to create a software stack release
+-   For LUST: Improvements to the documentation of LUMI-SoftwareStack, and new script to create a software stack release.
 
 Procedure: See the LUST Wiki
