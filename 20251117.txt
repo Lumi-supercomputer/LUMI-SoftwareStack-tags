@@ -1,0 +1,9 @@
+tag 20251117: Updates to contributed EasyConfigs
+
+-   Correction AlphaFold licensing
+-   QuantumESPRESSO 7.4.1 for CPU
+-   Correction to GROMACS 2025.1
+-   Extrae and DLB
+-   Score-P 9.3
+
+Procedure: See the LUST Wiki
