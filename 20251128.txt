@@ -1,0 +1,7 @@
+tag 20251128: Documentation corrections and preparing for EB5
+
+-   Corrections to the documentation of one of the PyTorch EasyConfigs.
+-   Moving to a patched MesonNinja in the EasyBuild distribution.
+-   Improvements to the fortune texts.
+
+Procedure: See the LUST Wiki
