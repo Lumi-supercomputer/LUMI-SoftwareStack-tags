@@ -1,0 +1,7 @@
+tag 20251203: MotD and LUMI/cpe warnings for the January 2026 system update
+
+-   Adapt the message-of-the-day warning for the upcoming update.
+-   Warnings in some LUMI and cpe modules that they will be removed from the
+    system during the update.
+
+Procedure: See the LUST Wiki
