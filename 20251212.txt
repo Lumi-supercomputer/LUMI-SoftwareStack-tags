@@ -1,0 +1,7 @@
+tag 20251212: VeloxChem and EasyConfigs for ccpe containers
+
+-   VeloxChem and dependencies
+-   24.11 and 25.11 EasyConfigs now visible everywhere and integrated in the
+    LUMI Software Library
+
+Procedure: See the LUST Wiki
