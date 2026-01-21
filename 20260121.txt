@@ -1,0 +1,5 @@
+tag 20260121: First corrections after the January 2026 system update
+
+-   Basically working around the lack of rocm/6.0.3 and amd/6.0.3.
+
+Procedure: See the LUST Wiki
