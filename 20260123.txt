@@ -1,0 +1,7 @@
+tag 20260123: Minor fixes and Score-P
+
+-   Minor fixes in the software stack and additional warnings for software that does not work anymore.
+-   Clean-up of old container EasyConfigs that are no longer supported on the current GPU driver.
+-   Score-P and Scalasca for most toolchains in 25.03.
+
+Procedure: See the LUST Wiki
