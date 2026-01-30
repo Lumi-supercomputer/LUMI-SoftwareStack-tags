@@ -1,0 +1,6 @@
+tag 20260202: Some more or less urgent fixes
+
+-   Recipes for GROMACS without cray-hugepages, and new CPU-only recipes for 25.03.
+-   Fix two EasyBlocks in 4.8.2 to improve support for 23.09.
+
+Procedure: See the LUST Wiki
