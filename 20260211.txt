@@ -1,0 +1,9 @@
+tag 20260211: EasyBuild hackathon results
+
+-   Reworked recipes for METIS and ParMETIS, better indicating with what precision
+    they are compiled. These will replace the old ones in future stacks.
+-   Additional ROCm modules, both pre-installed and user-installable.
+-   Lots of additional EasyConfigs: Amber, CP2K for GPU, GROMACS, hipfort, LAMMPS, 
+    VASP, VeloxChem (not yet complete - Magma is still missing), WRF-SFIRE and WPS,
+
+Procedure: See the LUST Wiki
