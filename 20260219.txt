@@ -1,0 +1,10 @@
+tag 20260219: Various minor fixes and cleanup
+
+-   Install an updated cotainr in CrayEnv and 24.03. This is not yet the version with new system images.
+-   Fix support for Cray Fortran in recent buildtools modules.
+-   Improvements to the documentation for ROCm and PyTorch.
+-   New EasyConfig for MicroHH.
+-   Fixes to permission issues with some ROCm modules.
+-   Clean up deprecated modules in CrayEnv.
+
+Procedure: See the LUST Wiki
