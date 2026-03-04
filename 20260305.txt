@@ -1,0 +1,8 @@
+tag 20260219: 25.09 stack and many packages for 25.03
+
+-   25.09 base software stack + ADIOS2 and GROMACS
+-   New cotainr version for 25.03
+-   Many updated packages for 25.03, including ABINIT, QuantumESPRESSO (CPU),
+    Siesta, GPAW, CP2K, TAU, VeloxChem and QUDA.
+
+Procedure: See the LUST Wiki
