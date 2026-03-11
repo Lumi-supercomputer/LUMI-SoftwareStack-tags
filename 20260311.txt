@@ -1,3 +1,7 @@
-tag 20260311: Updated message-of-the-day
+tag 20260311: Updated message-of-the-day rocm/6.3.4-extras
+
+-   Message-of-the-Day announcing the new Terms of Use
+-   rocm/6.3.4-extras module that can replace the system rocm/6.3.4 but also
+    offers the compute and systems profiler and debug and ASAN libraries.
 
 Procedure: See the LUST Wiki
