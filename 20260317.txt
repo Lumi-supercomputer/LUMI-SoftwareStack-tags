@@ -1,0 +1,6 @@
+tag 20260317: Local-LAIF and package updates
+
+-   Local-LAIF module to enable the LAIF modules
+-   Updates to VASP and Neko
+
+Procedure: See the LUST Wiki
