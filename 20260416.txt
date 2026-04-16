@@ -1,0 +1,8 @@
+tag 20260416: Some clean-up and materials for the Riga intro course
+
+-   Update of the MotD
+-   Updated version of systools, now with lstopo
+-   Update of lumi-training-tools for the Riga course
+-   Clean-up of old EasyConfigs that don't work anymore
+
+Procedure: See the LUST Wiki
