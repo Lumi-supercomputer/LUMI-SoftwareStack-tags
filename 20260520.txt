@@ -1,0 +1,6 @@
+tag 202605230: ROCm fixes
+
+-   Fix for rocm/6.3.4-extras and 6.4.4 to fix AMD profiler support.
+-   Removing the security-compromised rclone in lumio-ext-tools/1.0.0.
+
+Procedure: See the LUST Wiki
