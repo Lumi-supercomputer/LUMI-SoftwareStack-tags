@@ -1,0 +1,7 @@
+tag 20260527: lumio fixes and lumi-tools improvement.
+
+-   Better docs for ROCm modules
+-   Fix for lumio-conf
+-   New lumi-workspaces and updated lumi-ldap-projectinfo showing more information
+
+Procedure: See the LUST Wiki
