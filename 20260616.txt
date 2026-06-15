@@ -1,0 +1,7 @@
+tag 20260527: lumi-tools improvement, new Spack and AMD flang compiler.
+
+-   New Spack module
+-   Experimental AMD Flang compiler
+-   Further updates to the lumi-tools module, now also with pushover and pushslack.
+
+Procedure: See the LUST Wiki
