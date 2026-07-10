@@ -1,0 +1,7 @@
+tag 20260710: Some updates to contributed packages and doc updates
+
+-   Score-P 10.0
+-   Yambo with SLEPc support
+-   Doc updates for MUMPS and ROCm.
+
+Procedure: See the LUST Wiki
