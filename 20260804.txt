@@ -1,0 +1,7 @@
+tag 20260804: CCPE 2603 container and some updates to contributed packages and doc updates
+
+-   Correction to the ROCm modules
+-   ccpe/26.03 container and first set of applications
+-   Amber update, new applications: URANOS and iPIC3D.
+
+Procedure: See the LUST Wiki
