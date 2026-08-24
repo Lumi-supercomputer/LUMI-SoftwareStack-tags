@@ -1,0 +1,7 @@
+tag 20260824: CCPE 2603 container and updates, VASP with GPU support and OpenMM
+
+-   VASP 6.6.0 with GPU
+-   OpenMM installed with lumi-container-wrapper.
+-   Additional software and toolchains for the ccpe/26.03 container.
+
+Procedure: See the LUST Wiki
