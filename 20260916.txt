@@ -1,0 +1,10 @@
+tag 20260916: Various package updates
+
+- Update of lumi-container-wrapper
+- QuantumESPRESSO with GPU support.
+- seff version adapted for the new version of Slurm after the September 2 2026 mandatory maintenance.
+- Updated dev EasyConfig for OpenFOAM and version of dlb.
+- New package: cam-roofline.
+- Some additional packages for the 26.03 container and a small update to the container EasyConfig.
+
+Procedure: See the LUST Wiki
