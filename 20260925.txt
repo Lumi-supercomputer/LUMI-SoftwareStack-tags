@@ -1,0 +1,7 @@
+tag 20260925: Some package updates and additions.
+
+- libzip in the pre-installed software
+- FFmpeg 9.0.1 anv VASP 6.6.1 user-installable packages.
+- Eliminate the use of Szip in 26.03 user-installable packages.
+
+Procedure: See the LUST Wiki
