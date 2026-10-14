@@ -1,0 +1,8 @@
+tag 20261014: Some package updates and additions.
+
+- New package: FDS - Fire Dynamics Simulator
+- Updates: AWS OFI plugin, AdaptiveCpp, CuPy, ELPA, PETSc and dependencies, magma, RSPt.
+- Small update of the PyTorch containers documentation.
+- Archiving buggy VASP version.
+
+Procedure: See the LUST Wiki
