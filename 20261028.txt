@@ -1,0 +1,6 @@
+tag 20261028: Fixing security issues after the eMuhdra certificate compromise
+
+-   Security warnings for some unmaintained containers. 
+-   Install EasyBuild 5.4.1 in the 26.03 container with a safe version of certifi.
+
+Procedure: See the LUST Wiki
